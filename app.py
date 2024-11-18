@@ -1,4 +1,5 @@
 # Python In-built packages
+# нахуй не надо 
 from pathlib import Path
 import PIL
 
